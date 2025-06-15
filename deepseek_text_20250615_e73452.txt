@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mahfuz196.github.io/sitemap.xml
